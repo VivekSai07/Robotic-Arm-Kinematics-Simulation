@@ -1,4 +1,4 @@
-# Robotic-Arm-Kinematics-Simulation
+# Robotic Arm Kinematics Simulation
 
 ## Overview
 The Robotic Arm Kinematics Simulation project is a MATLAB-based exploration of the kinematics of 2-DOF and 3-DOF robotic arms in a 2-dimensional space. Utilizing MATLAB Live Scripts (.mlx), this project offers a real-time, interactive visualization platform for studying the dynamic movements of robotic arms. Users can effortlessly simulate various arm configurations and observe the impact of different parameters on the arms' motions. The Live Script allows for a comprehensive understanding of the mechanics of robotic arms, aiding in the analysis and optimization of arm designs. With a focus on user-friendly interactivity, this project provides a valuable tool for both students and professionals interested in robotics, offering a hands-on experience in understanding and manipulating the kinematic behavior of robotic arms.
